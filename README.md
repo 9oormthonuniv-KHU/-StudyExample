@@ -10,13 +10,13 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><img src="khu_img.png" width="150px;" alt=""/><br /><sub><b>팀원 : 유재석</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="khu_img.png" width="150px;" alt=""/><br /><sub><b>팀원 : 박명수</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="khu_img.png" width="150px;" alt=""/><br /><sub><b>팀원 : 정준하</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="1.png" width="150px;" alt=""/><br /><sub><b>팀원 : 유재석</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="1.png" width="150px;" alt=""/><br /><sub><b>팀원 : 박명수</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="1.png" width="150px;" alt=""/><br /><sub><b>팀원 : 정준하</b></sub></a><br /></td>
     <tr/>
-      <td align="center"><a href=""><img src="khu_img.png" width="150px;" height="150px;" alt=""/><br /><sub><b>팀원 : 노홍철</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="khu_img.png" width="150px;" height="150px;" alt=""/><br /><sub><b>팀원 : 정형돈</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="khu_img.png" width="150px;" alt=""/><br /><sub><b>팀원 : 하하</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="1.png" width="150px;" height="150px;" alt=""/><br /><sub><b>팀원 : 노홍철</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="1.png" width="150px;" height="150px;" alt=""/><br /><sub><b>팀원 : 정형돈</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="1.png" width="150px;" alt=""/><br /><sub><b>팀원 : 하하</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
